@@ -4,6 +4,7 @@
   const answers = {
     "What is the capital of France?": "France",
     "What is 2 + 2?": "4",
+    
     // Add more questions and answers as needed
   };
 
